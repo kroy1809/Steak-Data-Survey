@@ -1,2 +1,2 @@
 # Steak-Data-Survey
-Analyzed the steak preferences in a survey to compare it with risk evaluation of individuals
+Analyzed the steak preferences in survey data to compare it with risk evaluation of individuals
